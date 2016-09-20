@@ -1,0 +1,24 @@
+#header,
+#footer-wrap {background: #333 !important;}
+
+.cursussenophalen,
+.cursusseninschrijven,
+.cursussenbeheren {
+  background: #333 !important;
+  padding-left: 10px !important;
+  transition: none !important;
+}
+
+.cursussenophalen:hover,
+.cursusseninschrijven:hover,
+.cursussenbeheren:hover {
+  color: #fff !important;
+}
+
+.cursussenophalen::before,
+.cursusseninschrijven::before,
+.cursussenbeheren::before {padding-right: 10px;}
+
+.cursussenophalen::before {content: "🔄";}
+.cursusseninschrijven::before {content: "📝";}
+.cursussenbeheren::before {content: "🔧";}

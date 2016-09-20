@@ -20,6 +20,9 @@
       "js": [
         "app.js"
       ],
+      "css": [
+        "css/themes/black.css"
+      ],
       "run_at": "document_end"
     }
   ]
