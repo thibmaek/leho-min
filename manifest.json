@@ -1,8 +1,11 @@
 {
+  "manifest_version": 2,
   "name": "leho-min",
   "description": "Unclutter/unspam Leho",
   "version": "0.1.0",
-  "manifest_version": 2,
+  "icons": {
+    "32": "icon.png"
+  },
   "browser_action": {
     "default_title": "leho-min",
     "default_icon": "icon.png",
