@@ -4,8 +4,8 @@
 Chrome extension for a cleaner Leho (https://leho.howest.be) experience
 
 # Installing
-* Recommended: Install from the official Chrome Webstore.
-* Developers can install the zip file in this repo and load as packaged extension from chrome://extensions
+* Recommended: Install from the [official Chrome Webstore](https://chrome.google.com/webstore/detail/leho-min/eceabmflfeipakjongkmpekclennpfda).
+* Developers can install the zip file in this repo and load as packaged extension from [chrome://extensions](chrome://extensions)
 
 # Features
 * Removes everything in the dashboard except for the Practical section with course notifcations.
