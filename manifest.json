@@ -4,11 +4,15 @@
   "description": "Unclutter/unspam Leho",
   "version": "0.1.0",
   "icons": {
-    "32": "icon.png"
+    "16": "img/icon-16.png",
+    "32": "img/icon-32.png",
+    "64": "img/icon-64.png",
+    "96": "img/icon-96.png",
+    "128": "img/icon-128.png"
   },
   "browser_action": {
     "default_title": "leho-min",
-    "default_icon": "icon.png",
+    "default_icon": "img/icon-64.png",
     "default_popup": "popup.html"
   },
   "permissions": [
