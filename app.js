@@ -1,4 +1,4 @@
-(() => {
+{
 	// DOM methods used because ES native modules don't seem to me supported :(
 	const checkAndRemove = node => node ? node.remove() : null;
 
@@ -18,4 +18,4 @@
 	// const settings = document.createElement('li');
 	// settings.innerHTML = "<a>leho-min settings</a>";
 	// document.querySelector('#usermenu ul').appendChild(settings);
-})();
+};
