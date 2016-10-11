@@ -18,4 +18,4 @@
 	// const settings = document.createElement('li');
 	// settings.innerHTML = "<a>leho-min settings</a>";
 	// document.querySelector('#usermenu ul').appendChild(settings);
-};
+}();
