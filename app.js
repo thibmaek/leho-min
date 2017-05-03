@@ -4,7 +4,6 @@
 
   checkAndRemove(document.querySelector('.portal_stip_wrapper'));
   checkAndRemove(document.getElementById('corps').querySelector('.portal_div_wrapper'));
-  checkAndRemove(document.getElementById('breadcrumbs'));
   checkAndRemove(document.getElementById('course_ALGAUTOSTUDSSBKa7ae'));
   checkAndRemove(document.getElementById('course_ALGAUTOSTUDENQUETES50ca'));
   checkAndRemove(document.getElementById('course_ALGAUTOSTUDJHNYP9b60'));
